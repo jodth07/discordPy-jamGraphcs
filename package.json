@@ -20,6 +20,7 @@
   "homepage": "https://github.com/jodth07/discordPy-jamGraphcs#readme",
   "dependencies": {
     "pixi-tilemap": "^1.2.4",
+    "pixi-viewport": "^3.9.0",
     "pixi.js": "^4.8.2"
   },
   "devDependencies": {
